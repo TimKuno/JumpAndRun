@@ -1,0 +1,10 @@
+19990 Player 1
+120 Player 1
+100 Player2
+77 Player3
+55 Player4
+46 aaa
+43 Hallo
+40 Player5
+33 Player6
+25 Player7
